@@ -1,4 +1,4 @@
-# greedy
+# Greedy Path
 This takes in elevation points of data from provided .dat files, stores them in a vector, converts them into shades of gray, displays the paths taken (in red), and clarifies the "best" path (in green).
 
 Mountain Paths - Part 2
